@@ -129,3 +129,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # python pdf_chapter_splitter.py example.pdf -o output_dir -p my_chapter_ --keep-names

@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# build
+build/
+dist/
+venv/
+.venv/
+.env/
+.tox/
+.eggs/
+*.egg-info/
+
+# coverage
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.mypy_cache/
+.nox/
+.tox/
+.build/
+.ipynb_checkpoints/
+
+# pytest
+
